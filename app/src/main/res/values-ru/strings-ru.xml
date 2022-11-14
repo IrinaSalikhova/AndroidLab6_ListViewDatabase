@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">AndroidLab5_ListView</string>
+    <string name="receive_message_image">получение сообщения</string>
+    <string name="send_message_image">отправка сообщения</string>
+    <string name="your_message">Печатай здесь…</string>
+    <string name="send">ОТОШЛИ</string>
+    <string name="receive">ПОЛУЧИ</string>
+    <string name="alert_question">Вы хотите удалить это сообщение?</string>
+    <string name="alert_inf1">Выбранная строка:&#160; </string>
+    <string name="alert_inf2">Номер хранилища:&#160; </string>
+    <string name="positive_alert">Удалить</string>
+    <string name="negative_alert">Отмена</string>
+    <string name="message_receiver">получатель сообщения</string>
+    <string name="message_sender">отправитель сообщения</string>
+    <string name="message_status1">получено</string>
+    <string name="message_status2">отправлено</string>
+    <string name="date_pattern">dd.MM.yyyy_HH:mm:ss</string>
+    <string name="message_in_string1">Сообщение \"</string>
+    <string name="message_in_string2">\" было&#160; </string>
+    <string name="message_in_string3">&#160;в&#160;</string>
+
+
+</resources>

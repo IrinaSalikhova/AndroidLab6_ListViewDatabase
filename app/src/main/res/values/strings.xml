@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AndroidLab5_ListView</string>
+    <string name="receive_message_image">receive message Image</string>
+    <string name="send_message_image">send message Image</string>
+    <string name="your_message">Type here…</string>
+    <string name="send">SEND</string>
+    <string name="receive">RECEIVE</string>
+    <string name="alert_question">Do you want to delete this?</string>
+    <string name="alert_inf1">The selected row is:&#160; </string>
+    <string name="alert_inf2">The database id is:&#160; </string>
+    <string name="positive_alert">Delete</string>
+    <string name="negative_alert">Cancel</string>
+    <string name="message_receiver">message receiver</string>
+    <string name="message_sender">message sender</string>
+    <string name="message_status1">received</string>
+    <string name="message_status2">sent</string>
+    <string name="date_pattern">yyyy.MM.dd_HH:mm:ss</string>
+    <string name="message_in_string1">The message \"</string>
+    <string name="message_in_string2">\" was&#160; </string>
+    <string name="message_in_string3">&#160;at&#160;</string>
+    <string name="search">Search</string>
+    <string name="logprint">LogPrint</string>
+    <string name="search_hint">Search message...</string>
+
+
+</resources>
